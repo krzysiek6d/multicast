@@ -26,6 +26,7 @@ int main(int argc, char *argv[])
 		exit(1);
 	}
 	else
+	{
 		printf("Setting SO_REUSEADDR...OK.\n");
 	}
 	 
